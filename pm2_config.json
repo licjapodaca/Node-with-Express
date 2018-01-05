@@ -1,0 +1,11 @@
+{
+	"apps": [
+		{
+			"name": "prueba",
+			"script": "./index.js",
+			"watch": true,
+			"exec_interpreter": "babel-node -e js",
+			"exec_mode": "fork"
+		}
+	]
+}
